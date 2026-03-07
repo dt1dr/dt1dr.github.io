@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **BEng in Computer Science with an Extended Major in Artificial Intelligence**  
+  ⏳ Sep. 2022 – Present  
+  📍 The Hong Kong University of Science and Technology (HKUST), Hong Kong  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Exchange Student**  
+  ⏳ Jan. 2025 – May 2025  
+  📍 Purdue University, West Lafayette, IN, USA  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **High School Diploma**  
+  ⏳ Sep. 2019 – Jun. 2022  
+  📍 The Affiliated High School of South China Normal University, Guangzhou, China  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+📚 Coursework
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Machine Learning, Machine Learning Systems, Graph Machine Learning, Honors Algorithm Design, Software Engineering, Operating Systems, Cloud Computing
+
+🔬 Research
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+**LLM-based Log Analysis Assistant**  
+⏳ Aug. 2025 – Present  
+📍 HKUST  
+Working on LLMs for log analysis and anomaly detection.
+
+**Undergraduate Research Assistant — GNN for Logical Reasoning**  
+⏳ Feb. 2024 – Jul. 2024  
+📍 KnowComp Lab, HKUST  
+Worked on graph neural networks for reasoning over knowledge graphs.
+
+💼 Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+**AI R&D Intern**  
+⏳ Jul. 2025 – Aug. 2025  
+📍 China Telecom Co., Ltd., Shenzhen Branch, Shenzhen, China  
+Worked on practical AI systems, including RAG, hybrid retrieval, and speech-enabled applications.
+
+**Full-Stack Developer — PurePost**  
+⏳ Jan. 2025 – May 2025  
+📍 Purdue University  
+Built a cross-platform social media app with deepfake detection.
+
+
+🛠 Skills
 ======
-* Currently signed in to 43 different slack teams
+**Programming**  
+Python, C/C++, Java, JavaScript/TypeScript  
+
+**AI & Development**  
+PyTorch, PyG, Django, FastAPI, React
+
+**Tools**  
+Git, Docker, Linux
+
+
+🏅 Awards
+======
+**University Scholarship (Top 10%)**  
+📍 HKUST  
+⏳ 2023/24  
