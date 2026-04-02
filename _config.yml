@@ -26,11 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Yifan Li (李逸帆)"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student major in CS+AI @HKUST, interested in machine learning and systems."
+  bio              : "Undergraduate student, major in CS+AI @HKUST, interested in machine learning and systems."
   location         : "Hong Kong SAR"
   employer         : "HKUST"
   uri              : # URL
-  email            : "ylinr@connect.ust.hk" 
+  email_user       : ylinr
+  email_domain     : connect.ust.hk
 
   # Academic websites
   academia         : # URL

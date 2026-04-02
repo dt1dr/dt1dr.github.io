@@ -13,7 +13,7 @@ redirect_from:
 ======
 * **BEng in Computer Science with an Extended Major in Artificial Intelligence**  
   ⏳ Sep. 2022 – Present  
-  📍 The Hong Kong University of Science and Technology (HKUST), Hong Kong  
+  📍 The Hong Kong University of Science and Technology (HKUST), Hong Kong S.A.R
 
 * **Exchange Student**  
   ⏳ Jan. 2025 – May 2025  
@@ -31,7 +31,7 @@ Machine Learning, Machine Learning Systems, Graph Machine Learning, Honors Algor
 🔬 Research
 ======
 **LLM-based Log Analysis Assistant**  
-⏳ Aug. 2025 – Present  
+⏳ Aug. 2025 – Apr. 2026  
 📍 HKUST  
 Working on LLMs for log analysis and anomaly detection.
 
@@ -47,16 +47,16 @@ Worked on graph neural networks for reasoning over knowledge graphs.
 📍 China Telecom Co., Ltd., Shenzhen Branch, Shenzhen, China  
 Worked on practical AI systems, including RAG, hybrid retrieval, and speech-enabled applications.
 
-**Full-Stack Developer — PurePost**  
-⏳ Jan. 2025 – May 2025  
-📍 Purdue University  
+**Full-Stack Project — PurePost**  
+⏳ Jan. 2025 – May. 2025  
+📍 Purdue University
 Built a cross-platform social media app with deepfake detection.
 
 
 🛠 Skills
 ======
 **Programming**  
-Python, C/C++, Java, JavaScript/TypeScript  
+Python, C/C++, JavaScript/TypeScript  
 
 **AI & Development**  
 PyTorch, PyG, Django, FastAPI, React

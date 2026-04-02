@@ -33,8 +33,25 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      {% if author.email_user and author.email_domain %}
+        <li>
+          <a id="author-email-link" href="#">
+            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
+            {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+          </a>
+        </li>
+
+        <script>
+          document.addEventListener("DOMContentLoaded", function () {
+            const parts = ["{{ author.email_user }}", "{{ author.email_domain }}"];
+            const email = parts.join(String.fromCharCode(64));
+
+            const link = document.getElementById("author-email-link");
+            if (link) {
+              link.setAttribute("href", "mailto:" + email);
+            }
+          });
+        </script>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
