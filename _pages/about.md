@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m **Yifan Li**, a fourth-year **Computer Science and AI** undergraduate at **HKUST**. My main interest is in **machine learning systems**, especially at the intersection of **LLMs, efficient ML infrastructure, and intelligent applications**. I enjoy building practical AI systems that connect research ideas with real-world use.
+Hi! I’m **Yifan Li**, a final-year **Computer Science and AI** undergraduate at **HKUST** (graduating in 2026).  
+This fall, I’m excited to join the **Master of Computer Science (MCS)** program at **UIUC Urbana-Champaign**.
 
-Recently, I’ve worked on projects involving **LLM applications, RAG systems, and Graph Neural Networks**. 
+My main interest lies in **machine learning systems**, particularly at the intersection of **LLMs, efficient ML infrastructure, and intelligent applications**. I enjoy building practical AI systems that bridge research ideas and real-world use.
 
-I’m currently in the graduate application cycle and looking for **summer opportunities after graduation**, including both **research roles** and **industry internships**, especially in **ML Systems, LLM systems, and applied AI**. If you’re working on related problems, I’d be glad to connect.
+---
 
-**Last Updated: 2026.03**
+Recently, I’ve worked on projects involving **LLM applications, RAG systems, and Graph Neural Networks**.  
+
+If you’re working on related problems — especially in **ML Systems, LLM systems, or applied AI** — I’d be glad to connect and explore summer 2026 opportunities together.
+
+**Last Updated: 2026.05**
