@@ -13,7 +13,7 @@ title                    : "Yifan Li"
 title_separator          : "-"
 name                     : &name "Yifan Li"
 description              : &description "Yifan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://dt1dr.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://yiferon.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dt1dr/dt1dr.github.io"
@@ -304,7 +304,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Hong_Kong # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
