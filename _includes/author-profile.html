@@ -36,11 +36,9 @@
       {% if author.email_user and author.email_domain %}
         <li>
           <a id="author-email-link" href="#">
-            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
-            {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}
           </a>
         </li>
-
         <script>
           document.addEventListener("DOMContentLoaded", function () {
             const parts = ["{{ author.email_user }}", "{{ author.email_domain }}"];

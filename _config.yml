@@ -26,12 +26,12 @@ author:
   avatar           : "profile514.jpg"
   name             : "Yifan Li (李逸帆)"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student, major in CS+AI @HKUST, interested in machine learning and systems."
-  location         : "Hong Kong SAR"
-  employer         : "HKUST"
+  bio              : "First Year Graduate MCS student @ UIUC, interested in machine learning and systems."
+  location         : "Champaign, IL, US"
+  employer         : "UIUC"
   uri              : # URL
-  email_user       : ylinr
-  email_domain     : connect.ust.hk
+  email_user       : yifanl29
+  email_domain     : illinois.edu
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,7 @@ author:
   googlescholar    : # URL - Update with the correct link to your profile
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0000-2717-7066" # URL
+  orcid            : # "https://orcid.org/0009-0000-2717-7066" # URL
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : yifan-li-00658640b
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

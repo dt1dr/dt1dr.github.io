@@ -1,21 +1,28 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yifan Li"
+excerpt: "LLMs and retrieval for real-world systems data. MCS @ UIUC, previously HKUST."
+description: "Yifan Li — MCS student at UIUC. LLM applications, retrieval systems, graph ML. Seeking Summer 2027 internships."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! I’m **Yifan Li**, a final-year **Computer Science and AI** undergraduate at **HKUST** (graduating in 2026).  
-This fall, I’m excited to join the **Master of Computer Science (MCS)** program at **UIUC Urbana-Champaign**.
+I'm a first-year **Master of Computer Science (MCS)** student at **UIUC**, interested in building systems that apply LLMs and retrieval to real-world data. My recent work includes a nine-month Final Year Project on **LLM-based log analysis** at HKUST and an AI R&D internship at **China Telecom**, where I developed hybrid retrieval and RAG pipelines.
 
-My main interest lies in **machine learning systems**, particularly at the intersection of **LLMs, efficient ML infrastructure, and intelligent applications**. I enjoy building practical AI systems that bridge research ideas and real-world use.
+Before UIUC, I earned a BEng in Computer Science with an Extended Major in Artificial Intelligence from **HKUST** and spent a semester as an exchange student at **Purdue University**. At UIUC, I'm focusing on **machine learning systems**, particularly efficient inference and model serving.
 
----
+I'm seeking **Summer 2027 internships** in applied ML, LLM engineering, or ML systems. See my [CV](/cv/) for more details, or feel free to reach out via the email in the sidebar.
 
-Recently, I’ve worked on projects involving **LLM applications, RAG systems, and Graph Neural Networks**.  
+## News
 
-If you’re working on related problems — especially in **ML Systems, LLM systems, or applied AI** — I’d be glad to connect and explore summer 2026 opportunities together.
+- **2026.08** — Started the MCS program at UIUC.
+- **2026.06** — Graduated from HKUST (BEng, CS with Extended Major in AI).
+- **2026.04** — Completed my final-year project on LLM-based log analysis.
+- **2025.08** — Wrapped up an AI R&D internship at China Telecom (Shenzhen).
 
-**Last Updated: 2026.05**
+## Toolbox
+
+Python, C/C++, TypeScript · PyTorch, PyTorch Geometric · FastAPI, Django, React· Docker, Linux, Git
+
