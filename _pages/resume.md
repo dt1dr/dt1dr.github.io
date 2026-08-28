@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 toc: true
 toc_sticky: true
 redirect_from:
-  - /resume
+  - /cv/
 ---
 
 ## Education
@@ -55,6 +55,7 @@ Aug. 2025 – Apr. 2026
 - Served the fine-tuned model with **vLLM** and integrated the inference pipeline into a FastAPI-based web application.
 
 `Python` · `PyTorch` · `Hugging Face Transformers` · `PEFT/LoRA` · `vLLM` · `FastAPI`  
+
 [Code](https://github.com/hhuangbt/Kai3_final_code)
 
 ---
@@ -77,6 +78,8 @@ Jan. 2025 – May 2025
 - Integrated a **deepfake image detection model** into the platform's image-processing workflow.
 
 `Django` · `React` · `TypeScript` · `FastAPI` · `PyTorch` · `Docker`
+
+[Repo1](https://github.com/01-LinYi/PurePost-frontend) [Repo2](https://github.com/01-LinYi/PurePost-backend)
 
 ## Technical Skills
 

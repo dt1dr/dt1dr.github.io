@@ -7,7 +7,7 @@
 BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
 # Define file paths
-CV_MARKDOWN="$BASE_DIR/_pages/cv.md"
+CV_MARKDOWN="$BASE_DIR/_pages/resume.md"
 CV_JSON="$BASE_DIR/_data/cv.json"
 CONFIG_FILE="$BASE_DIR/_config.yml"
 
@@ -18,9 +18,9 @@ if [ ! -f "$PYTHON_SCRIPT" ]; then
   exit 1
 fi
 
-# Check if the markdown CV exists
+# Check if the markdown resume exists
 if [ ! -f "$CV_MARKDOWN" ]; then
-  echo "Error: Markdown CV not found at $CV_MARKDOWN"
+  echo "Error: Markdown resume not found at $CV_MARKDOWN"
   exit 1
 fi
 

@@ -13,16 +13,15 @@ I'm a first-year **Master of Computer Science (MCS)** student at **UIUC**, inter
 
 Before UIUC, I earned a BEng in Computer Science with an Extended Major in Artificial Intelligence from **HKUST** and spent a semester as an exchange student at **Purdue University**. At UIUC, I'm focusing on **machine learning systems**, particularly efficient inference and model serving.
 
-I'm seeking **Summer 2027 internships** in applied ML, LLM engineering, or ML systems. See my [CV](/cv/) for more details, or feel free to reach out via the email in the sidebar.
+I'm seeking **Summer 2027 internships** in applied ML, LLM engineering, or ML systems. See my [resume](/resume/) for more details, or feel free to reach out via the email in the sidebar.
 
 ## News
 
 - **2026.08** — Started the MCS program at UIUC.
-- **2026.06** — Graduated from HKUST (BEng, CS with Extended Major in AI).
+- **2026.07** — Graduated from HKUST (BEng, CS with Extended Major in AI).
 - **2026.04** — Completed my final-year project on LLM-based log analysis.
 - **2025.08** — Wrapped up an AI R&D internship at China Telecom (Shenzhen).
 
 ## Toolbox
 
 Python, C/C++, TypeScript · PyTorch, PyTorch Geometric · FastAPI, Django, React· Docker, Linux, Git
-
